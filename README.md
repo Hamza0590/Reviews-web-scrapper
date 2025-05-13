@@ -68,7 +68,4 @@ Developed as a solo semester project for the *Programming for AI* course, it dem
 ## 🏁 Getting Started
 
 ### 🔧 Setup
-
-1. Clone the repository:
-   ```bash
-  ---Dowload the zip folder and run the jupyter notebook in visual studio and then run the web.py on the terminal
+1----*Dowload the zip folder and run the jupyter notebook in visual studio and then run the web.py on the terminal*
